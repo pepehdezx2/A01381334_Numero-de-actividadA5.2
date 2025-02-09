@@ -1,0 +1,6 @@
+[
+    {"product": "apple", "quantity": 10},
+    {"product": "banana", "quantity": 5},
+    {"product": "orange", "quantity": 8},
+    {"product": "mango", "quantity": 3}  # Invalid entry (not in catalog)
+]
